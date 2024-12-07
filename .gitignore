@@ -162,4 +162,4 @@ cython_debug/
 .idea/
 
 # advent of code input files
-*input.txt
+*input*.txt
